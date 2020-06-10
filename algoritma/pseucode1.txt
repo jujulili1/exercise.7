@@ -1,0 +1,9 @@
+a * b * c
+
+STORE "a" with any value
+STORE "b" with any value
+STORE "C" with any value
+STORE "hasil" without any value
+
+CALCULATE "a" times "b" times "c"
+SET "hasil" with result CALCULATE

@@ -1,0 +1,16 @@
+STORE "a" with value
+STORE "result" wihtout value
+
+IF (a >= 80) then
+    WRITE("A")
+ELSE IF (a <= 80 AND >=70) then
+    WRITE("B")
+ELSE IF (a <=70 AND >=60) then
+    WRITE("C")
+ELSE IF (a <=60 AND >=50)then
+    WRITE("D")
+ELSE ("E")
+
+ENDIF
+
+DISPLAY "result" result CALCULATE

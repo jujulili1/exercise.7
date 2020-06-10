@@ -1,0 +1,7 @@
+sisi * sisi
+
+STORE "sisi" with any value
+STORE "hasil" without any value
+
+CALCULATE "sisi" kali "sisi"
+SET "hasil" with result CALCULATE

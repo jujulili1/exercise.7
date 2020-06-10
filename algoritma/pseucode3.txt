@@ -1,0 +1,8 @@
+STORE "saya senang" without value
+STORE "i" with 0
+
+WHILE for i< 100 i++" then
+    WRITE ("Saya Senang")
+ENDWHILE
+
+DISPLAY "Saya Senang" result CALCULATE

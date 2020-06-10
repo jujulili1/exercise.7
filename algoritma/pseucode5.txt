@@ -1,0 +1,10 @@
+STORE "a" with value 0
+
+WHILE (for a in range (1,11))
+    IF(a mod 2 == 0) then 
+        WRITE "a, "is an even number.""
+    ELSE
+        WRITE "a, "is an odd number.""
+ENDWHILE
+
+DISPLAY "a" result CALCULATE
